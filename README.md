@@ -1,8 +1,8 @@
-> 👋 Hi, I’m @HimanshuKumar79
-> 👀 I’m interested in Web Development
-> 🌱 I’m currently learning MERN Stack
-> 💞️ I’m looking to collaborate on ...
-> 📫 How to reach me ngukumar123@gmail.com 
+- 👋 Hi, I’m @HimanshuKumar79
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning MERN Stack
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ngukumar123@gmail.com 
 
 <!---
 HimanshuKumar79/HimanshuKumar79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
